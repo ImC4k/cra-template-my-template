@@ -1,0 +1,273 @@
+{
+    "en": {
+        "languages": {
+            "Ensligh": "en",
+            "Chinese": "zh"
+        },
+        "header": {
+            "language": "Language",
+            "signOutButton": "Sign Out"
+        },
+        "table": {
+            "deleteButton": "Delete",
+            "deletePrompt": "Sure to delete?",
+            "addRowButton": "New"
+        },
+        "sign-in": {
+            "appName": "Family Registry",
+            "signInPrompt": "Please sign in to continue",
+            "signInButton": "Login with Google",
+            "failedToSignIn": "Failed to sign in"
+        },
+        "sign-out": {
+            "failedToSignOut": "Failed to sign out"
+        },
+        "home": {
+            "pageName": "Home",
+            "unauthorized": "You are not authorized to use this app",
+            "addNewFamilyButton": "New Family",
+            "searchInput": "Search",
+            "familyList": {
+                "familyId": "Family ID",
+                "name": "Name",
+                "district": "District"
+            }
+        },
+        "admin": {
+            "pageName": "Manage Users",
+            "addNewUserButton": "New User",
+            "userList": {
+                "nickName": "Nick Name",
+                "email": "Email",
+                "viewScope": "Viewable Families",
+                "canWrite": "Write Access",
+                "isAdmin": "Admin Privilege"
+            },
+            "notifications": {
+                "usersUpdated": "Users updated",
+                "dataReset": "Data has been reset",
+                "failedToRetrieveUsers": "Failed to retrieve users",
+                "failedToUpdateUsers": "Failed to update users"
+            }
+        },
+        "family": {
+            "general": {
+                "uploadButton": "Upload Photo",
+                "__title": "General",
+                "familyId": "Family ID",
+                "chineseName": "Chinese Name",
+                "englishName": "English Name",
+                "aka": "Alias",
+                "gender": "Gender",
+                "genderMale": "Male",
+                "genderFemale": "Female",
+                "followUpYear": "Follow Up Year",
+                "followUpVolunteer": "Follow Up Volunteer",
+                "homeTown": "Home Town",
+                "credentialType": "Credential Type",
+                "address": "Address",
+                "district": "District",
+                "homeTelephone": "Home Telephone",
+                "mobileTelephone": "Mobile Telephone",
+                "isCssa": "Social Assistance",
+                "isLowIncome": "Low Income",
+                "isFullStudentSubsidy": "Full Student Subsidy",
+                "isHalfStudentSubsidy": "Half Student Subsidy",
+                "familyBackground": "Family Background"
+            },
+            "members": {
+                "__title": "Members",
+                "name": "Name",
+                "relationship": "Relationship",
+                "birthday": "Birthday",
+                "telephone": "Telephone",
+                "about": "About",
+                "hobbies": "Hobbies",
+                "occupation": "Occupation",
+                "religiousStatus": "Religious Status",
+                "maritalStatus": "Marital Status"
+            },
+            "criticalEvents": {
+                "__title": "Critical Events",
+                "date": "Date",
+                "detail": "Detail"
+            },
+            "visits": {
+                "__title": "Visits",
+                "date": "Date",
+                "method": "Method",
+                "updates": "Updates",
+                "followUps": "Follow Ups",
+                "volunteers": "Volunteers"
+            },
+            "churchEvents": {
+                "__title": "Church Events",
+                "event": "Event",
+                "date": "Date",
+                "participants": "Participants"
+            },
+            "notifications": {
+                "imageFormatNotification": "You can only upload JPG/PNG file!",
+                "imageSizeNotification": "Image must smaller than 4MB!",
+                "dataReset": "Family has been reset",
+                "familyUploading": "Submitting family, please wait",
+                "familyUpdated": "Family updated",
+                "familyCreated": "Family created",
+                "faildToSave": "Failed to save",
+                "failedToRetrieveFamilies": "Failed to retrieve families",
+                "failedToRetrieveFamily": "Failed to retrieve family",
+                "failedToCreateNewFamily": "Failed to create new family",
+                "failedToUpdateFamily": "Failed to update family",
+                "failedToDeleteFamily": "Failed to delete family"
+            }
+        },
+        "buttons": {
+            "save": "Save",
+            "reset": "Reset",
+            "edit": "Edit",
+            "cancel": "Cancel"
+        },
+        "goBackModal": {
+            "title": "You have unsaved content",
+            "description": "Do you still wish to leaave?",
+            "confirm": "Leave",
+            "cancel": "Stay"
+        }
+    },
+    "zh": {
+        "languages": {
+            "英文": "en",
+            "中文": "zh"
+        },
+        "header": {
+            "language": "語言",
+            "signOutButton": "登出",
+            "adminPageName": "管理用家"
+        },
+        "table": {
+            "deleteButton": "刪除",
+            "deletePrompt": "確定刪除？",
+            "addRowButton": "新增"
+        },
+        "sign-in": {
+            "appName": "社區家庭資料庫",
+            "signInPrompt": "請登入系統",
+            "signInButton": "以Google登入",
+            "failedToSignIn": "登入錯誤"
+        },
+        "sign-out": {
+            "failedToSignOut": "登出錯誤"
+        },
+        "home": {
+            "pageName": "主頁",
+            "unauthorized": "抱歉你沒有權限使用此網站",
+            "addNewFamilyButton": "新增家庭",
+            "searchInput": "搜尋",
+            "familyList": {
+                "familyId": "家庭編號",
+                "name": "名稱",
+                "district": "居住區域"
+            }
+        },
+        "admin": {
+            "pageName": "用家管理",
+            "addNewUserButton": "新增用家",
+            "userList": {
+                "nickName": "暱稱",
+                "email": "電郵地址",
+                "viewScope": "可檢視家庭",
+                "canWrite": "更改資料權限",
+                "isAdmin": "管理員權限"
+            },
+            "notifications": {
+                "usersUpdated": "已更新成員資料",
+                "dataReset": "資料已被重置",
+                "failedToRetrieveUsers": "提取成員資料失敗",
+                "failedToUpdateUsers": "更新成員資料失敗啊"
+            }
+        },
+        "family": {
+            "general": {
+                "__title": "家庭資料",
+                "uploadButton": "上載照片",
+                "familyId": "家庭編號",
+                "chineseName": "中文名",
+                "englishName": "英文名",
+                "aka": "別名",
+                "gender": "性別",
+                "genderMale": "男",
+                "genderFemale": "女",
+                "followUpYear": "開始跟進年份",
+                "followUpVolunteer": "跟進義工",
+                "homeTown": "家鄉",
+                "credentialType": "證件類別",
+                "address": "地址",
+                "district": "區域",
+                "homeTelephone": "住所電話",
+                "mobileTelephone": "流動電話",
+                "isCssa": "綜援",
+                "isLowIncome": "低收入家庭",
+                "isFullStudentSubsidy": "學生津貼(全額)",
+                "isHalfStudentSubsidy": "學生津貼(半額)",
+                "familyBackground": "家庭背景"
+            },
+            "members": {
+                "__title": "家庭成員",
+                "name": "名稱",
+                "relationship": "關係",
+                "birthday": "生日",
+                "telephone": "電話",
+                "about": "簡介",
+                "hobbies": "興趣",
+                "occupation": "職業",
+                "religiousStatus": "信仰狀況",
+                "maritalStatus": "婚姻狀況"
+            },
+            "criticalEvents": {
+                "__title": "重要事項",
+                "date": "日期",
+                "detail": "詳情"
+            },
+            "visits": {
+                "__title": "探訪紀錄",
+                "date": "日期",
+                "method": "探訪方法",
+                "updates": "狀況，需要",
+                "followUps": "跟進事項",
+                "volunteers": "跟進義工"
+            },
+            "churchEvents": {
+                "__title": "參加活動",
+                "event": "活動",
+                "date": "日期",
+                "participants": "參加者"
+            },
+            "notifications": {
+                "imageFormatNotification": "只接受 JPG/PNG 圖片!",
+                "imageSizeNotification": "圖片需要小於 4MB!",
+                "dataReset": "家庭資料已被重設",
+                "familyUploading": "正在上傳，請稍候",
+                "familyUpdated": "已更新家庭資料",
+                "familyCreated": "已新增家庭資料",
+                "faildToSave": "更新失敗",
+                "failedToRetrieveFamilies": "提取家庭資料失敗",
+                "failedToRetrieveFamily": "提取家庭資料失敗",
+                "failedToCreateNewFamily": "新增家庭資料失敗",
+                "failedToUpdateFamily": "更新家庭資料失敗",
+                "failedToDeleteFamily": "移除家庭資料失敗"
+            }
+        },
+        "buttons": {
+            "save": "儲存",
+            "reset": "重設",
+            "edit": "更改資料",
+            "cancel": "取消"
+        },
+        "goBackModal": {
+            "title": "你有未儲存資料",
+            "description": "確定要離開？",
+            "confirm": "離開",
+            "cancel": "取消"
+        }
+    }
+}
